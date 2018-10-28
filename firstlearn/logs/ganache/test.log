@@ -1,0 +1,46 @@
+Ganache CLI v6.1.8 (ganache-core: 2.2.1)
+
+Available Accounts
+==================
+(0) 0x906975f40213f64d58777ff2c7f43373653b6072 (~100 ETH)
+(1) 0x2650aba1e2a37b60e2a1b2fcc3729c24d15785a9 (~100 ETH)
+(2) 0xe39df6791409d06f59e675dc263c83a550df33b0 (~100 ETH)
+(3) 0x23e9f86838b62a4090412af146073c229f2b6045 (~100 ETH)
+(4) 0xa60f53592e35e868eac8ec938b09f49cb20d1e61 (~100 ETH)
+(5) 0x9de6d00ba5288477173c679da9011a25ae629a46 (~100 ETH)
+(6) 0x7891380f17b0839c7b79812b73ff675bdd3c019f (~100 ETH)
+(7) 0xd6e50ed6f34ce30868fe68db18442c8dc99a9fc8 (~100 ETH)
+(8) 0x252f2f59ea91d3ff3fc8b72032923ab14ec427b7 (~100 ETH)
+(9) 0xc088a689220e2e9b38e322e0a3988fdf26ffda2f (~100 ETH)
+
+Private Keys
+==================
+(0) 0xe3d5a91e469ca55ea60452da02b20b1a53c24a4c411ebbda5590b134f744e763
+(1) 0x4a1b287feaf9c8ef2cafaecb13804c5382a46c4d89055999f334627467a75424
+(2) 0x7fef66b1b387e096aa321d72ee4be53177c3eef303d4066c0656cb4018573424
+(3) 0x1d1253f734863ff3f3b56445e63e791fe8f379d2cac25a60102893ac04fef0b6
+(4) 0xce3aab487b7dd2816ac7fa6ae3549987add9cb0338213778440aa9cc89aba62e
+(5) 0xa5297bf2a45d79b813af14f81fede35e0bd58c4d5e8688af8d50b5653bd51db9
+(6) 0xfe199ed94f65c125e5c1625a82bda299c52749fa8c5f2c9c431554d184c88962
+(7) 0x06c21c29fe5ce97cdbcbc31634f5d9b899859c4d30ea6cf2325a4e0afd6f0a68
+(8) 0xbe06e15ee5194ea2722a57226b35db8fa84be44e4b0326a6496f7b670cd452fb
+(9) 0x24e0ae0085f83964d17c7e863e1fadfc7880e77340facb0e0da4bc8e08a01599
+
+HD Wallet
+==================
+Mnemonic:      sudden gadget scrub file coach bounce defense brief grit embark limb believe
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Gas Price
+==================
+20000000000
+
+Gas Limit
+==================
+6721975
+
+Listening on 127.0.0.1:8545
+eth_accounts
+eth_accounts
+eth_accounts
+eth_accounts

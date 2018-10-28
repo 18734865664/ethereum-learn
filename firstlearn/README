@@ -1,0 +1,4 @@
+1. npm  init   // 创建package.json
+2. npm install solc    // 下载编译器
+3. npm install web3    // 用于调用合约与服务器交互
+4. npm install -g ganache-cli   // 用于维护私链
